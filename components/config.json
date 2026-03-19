@@ -1,0 +1,19 @@
+{
+  "appId": "app.africahealth",
+  "appName": "Africa Health",
+  "webDir": "out",
+  "ios": {
+    "backgroundColor": "#050A14"
+  },
+  "android": {
+    "backgroundColor": "#050A14",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#050A14",
+      "showSpinner": false
+    }
+  }
+}
